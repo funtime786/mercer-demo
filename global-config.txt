@@ -2,7 +2,4 @@
 
 3. Australia Config
 
-4. Consumer config
-
 2. Mercer Config
-
