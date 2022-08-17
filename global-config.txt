@@ -1,2 +1,6 @@
 1. Global config
+
 4. Consumer config
+
+2. Mercer Config
+
